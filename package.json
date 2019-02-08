@@ -1,0 +1,28 @@
+{
+  "name": "create-pixel",
+  "version": "0.1.0",
+  "description": "Helper function to reate data-uri of a one pixel image with custom color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandaiolo/create-pixel.git"
+  },
+  "keywords": [
+    "create",
+    "pixel",
+    "image",
+    "color",
+    "alpha",
+    "transparency"
+  ],
+  "author": "unknown",
+  "contributor": "Aurelien Chivot-Buhler <aurelien@arimaska.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandaiolo/create-pixel/issues"
+  },
+  "homepage": "https://github.com/pandaiolo/create-pixel#readme"
+}
