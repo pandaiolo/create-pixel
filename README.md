@@ -26,7 +26,7 @@ yarn add create-pixel
 import createPixel from 'create-pixel'
 
 // Other option with a number: createPixel(0xff0000)
-const dataUri = createPixel(`#ff0000`)
+const dataUri = createPixel('#ff0000')
 
 // Use in a generated image src:
 const onePixelImage = new Image()
